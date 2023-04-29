@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+
+h1{
+    color: crimson;
+}
+
+p{
+    color: cadetblue;
+    font-weight: bold;
+}
+
+input{
+    background-color: floralwhite;
+}
+
+input:hover{
+    color: whitesmoke;
+    background-color: cadetblue;
+}
